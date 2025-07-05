@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+black
+black[jupyter]
+ipykernel
+mypy
+pylint
+pytest
