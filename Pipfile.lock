@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a5d94d8f804e5833cbb369f069092e459a14ae3af250f15c4b375b13ae8f3cb2"
+            "sha256": "bc825356b465a75ed65396df2eb613e294dafd445f1bc266a3fef2e0728a486d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -262,6 +262,13 @@
             "markers": "python_version >= '3.9'",
             "version": "==4.58.5"
         },
+        "gr": {
+            "hashes": [
+                "sha256:2c3d0a31b318f0e480e8400f44af05bc0bbda039f59ac90df9de6308fe5c881b"
+            ],
+            "index": "pypi",
+            "version": "==1.27.0"
+        },
         "iniconfig": {
             "hashes": [
                 "sha256:3abbd2e30b36733fee78f9c7f7308f2d0050e88f0087fd25c2645f63c773e1c7",
@@ -284,6 +291,7 @@
                 "sha256:25850f025a446d9b359e8d296ba175a36aedd32e83ca9b5060430fe16801f066",
                 "sha256:c033c6d4e7914c3d9768aabe76bbe87ba1dc66a92a05db6bfa1125d81f2ee270"
             ],
+            "markers": "python_version >= '3.11'",
             "version": "==9.4.0"
         },
         "ipython-pygments-lexers": {
@@ -853,7 +861,7 @@
                 "sha256:37dd54208da7e1cd875388217d5e00ebd4179249f90fb72437e91a35459a0ad3",
                 "sha256:a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==2.9.0.post0"
         },
         "pytz": {
@@ -975,7 +983,7 @@
                 "sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274",
                 "sha256:ff70335d468e7eb6ec65b95b99d3a2836546063f63acc5171de367e834932a81"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.17.0"
         },
         "stack-data": {

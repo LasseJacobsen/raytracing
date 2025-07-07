@@ -7,7 +7,7 @@ name = "pypi"
 pandas = "*"
 numpy = "*"
 matplotlib = "*"
-black = {extras = ["jupyter"], version = "*"}
+black = {extras = ["jupyter"] }
 ipykernel = "*"
 mypy = "*"
 pylint = "*"
